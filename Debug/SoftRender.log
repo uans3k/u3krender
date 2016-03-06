@@ -1,0 +1,7 @@
+﻿  SoftRender.cpp
+d:\workspace\vs\softrender\softrender.cpp(245): warning C4305: “初始化”: 从“double”到“float”截断
+d:\workspace\vs\softrender\softrender.cpp(396): warning C4305: “+=”: 从“double”到“float”截断
+d:\workspace\vs\softrender\softrender.cpp(400): warning C4305: “-=”: 从“double”到“float”截断
+d:\workspace\vs\softrender\softrender.cpp(404): warning C4305: “-=”: 从“double”到“float”截断
+d:\workspace\vs\softrender\softrender.cpp(408): warning C4305: “+=”: 从“double”到“float”截断
+  SoftRender.vcxproj -> D:\workspace\vs\SoftRender\Debug\SoftRender.exe
